@@ -11,18 +11,18 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 
 💡Funcionalidades:
 
-Exibição de mostro com as imagens de cada um e decrição.
+- Exibição de mostro com as imagens de cada um e decrição.
 
-Informações dos pontos fracos e táticas.
+- Informações dos pontos fracos e táticas.
 
-Dicas e estratégias cajo seja necessário enfrentá-lo.
+- Dicas e estratégias cajo seja necessário enfrentá-lo.
 
-Ter um layout fácil e prático de acessar e navegar.
+- Ter um layout fácil e prático de acessar e navegar.
 
-Tecnologias Utilizadas:
+🛠️Tecnologias Utilizadas:
 
-HTML5 — estrutura da página
+- HTML5 — estrutura da página
 
-CSS3 — estilização e layout
+- CSS3 — estilização e layout
 
-JavaScript — interatividade
+- JavaScript — interatividade
