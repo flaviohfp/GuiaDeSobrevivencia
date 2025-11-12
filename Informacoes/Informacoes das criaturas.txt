@@ -1,0 +1,365 @@
+Criatura 1
+
+
+Card
+
+Nome: Gríflar
+
+img
+
+Tipo: Vácua (Predador Aéreo)
+
+Ameaça: Alta
+
+Comportamento: Territorial e caçador rápido
+
+
+Pagina principal
+
+
+Gríflar, o Vigilante do Vácuo
+
+Tipo: Vácua (Criatura Mutante)
+
+Classe: Predador Aéreo
+
+Aparência:
+Uma mistura de leão e águia, com corpo musculoso, asas douradas e olhos vermelhos que brilham à noite. Suas garras são afiadas e seu bico, capaz de partir metal, faz dele um dos Vácuas mais perigosos dos céus.
+
+Comportamento:
+Caçador solitário e extremamente territorial. Ataca de cima com precisão, geralmente após emitir um grito agudo que ecoa por quilômetros. Costuma guardar suas presas em locais altos, como torres e ruínas.
+Ponto Fraco:
+Seu peito é pouco protegido — as penas são finas nessa região. As asas também são sensíveis a impactos diretos, podendo forçá-lo a cair.
+
+🧭 Guia de Sobrevivência
+
+Evite áreas abertas: ele domina os céus.
+
+Procure refúgio fechado: túneis e prédios reduzem sua vantagem.
+
+Use distrações: luzes fortes e sons altos o desorientam.
+
+Mire no peito: ataques precisos podem derrubá-lo.
+
+Viaje em grupo: raramente enfrenta mais de dois alvos ao mesmo tempo.
+
+
+
+Criatura 2
+
+
+Card
+
+
+Nome: Hidravus
+
+img
+
+Tipo: Vácua (Anfíbio Mutante)
+
+Ameaça: Extrema
+
+Comportamento: Territorial e sensível a sons
+
+
+
+Pagina principal
+
+Hidravus, a Serpente das Marés
+
+Tipo: Vácua (Criatura Anfíbia Mutante)
+
+Classe: Colosso Territorial
+
+Aparência:
+O Hidravus é uma criatura gigantesca, com corpo de serpente e várias cabeças independentes. Sua pele é coberta por escamas escuras e resistentes, quase impenetráveis. Cada cabeça tem presas venenosas e línguas bifurcadas que detectam calor e vibrações.
+
+Comportamento:
+Vive em regiões costeiras, pântanos e ruínas inundadas. É extremamente agressiva e reage a qualquer som forte. Quando uma cabeça é ferida, outras atacam em fúria. Costuma caçar à noite e se alimenta de qualquer forma de vida que se mova.
+
+Ponto Fraco:
+A base do pescoço, logo abaixo da primeira cabeça, é a área menos protegida. Fogo e calor intenso também enfraquecem suas escamas e dificultam sua regeneração.
+
+🧭 Guia de Sobrevivência
+
+Evite zonas alagadas: o Hidravus se move melhor na água.
+
+Fogo é essencial: granadas incendiárias e coquetéis molotov são eficazes.
+
+Ataque em grupo: enquanto uma cabeça distrai, outras podem ser atingidas.
+
+Fuja em silêncio: sons atraem a criatura rapidamente.
+
+Se for visto, não lute — corra.
+
+
+
+
+Criatura 3
+
+
+Card
+
+Nome: Cerberis
+
+Tipo: Vácua (Terrestre Mutante)
+
+Ameaça: Alta
+
+Comportamento: Caça em matilhas e persegue ruídos
+
+
+
+
+Pagina principal
+
+Cerberis, o Cão da Ruína
+
+Tipo: Vácua (Criatura Terrestre Mutante)
+Classe: Predador de Caça
+
+Aparência:
+Cerberis é um cão de duas cabeças com corpo musculoso e pele escurecida, coberta por feridas que liberam um vapor tóxico. Seus dentes são afiados e seu latido é alto o bastante para atordoar presas próximas. As duas cabeças agem de forma quase independente — uma rastreia, enquanto a outra ataca.
+
+Comportamento:
+Caça em matilhas pequenas, movendo-se rápido e silenciosamente. São extremamente leais ao território onde surgiram e atacam qualquer coisa viva. Costumam rondar ruínas urbanas à noite em busca de presas fáceis.
+
+Ponto Fraco:
+A área entre as duas cabeças é frágil e pouco protegida. Também são sensíveis a sons agudos e luzes intensas, que desorientam seus sentidos.
+
+🧭 Guia de Sobrevivência
+
+Evite fazer barulho: o Cerberis tem audição muito apurada.
+
+Use luzes fortes: lanterna ou flash pode confundir temporariamente as cabeças.
+
+Ataque a junção das cabeças: é o ponto mais vulnerável.
+
+Suba em locais altos: têm dificuldade em escalar.
+
+Nunca enfrente um grupo: se ver mais de um, fuja e procure abrigo.
+
+
+
+Criatura 4
+
+
+Card
+
+
+Nome: Medrassia
+
+Tipo: Vácua (Psíquica e Alada)
+
+Ameaça: Alta
+
+Comportamento: Caça sozinha, usa gritos e ilusões para paralisar vítimas
+
+
+Pagina principal
+
+
+Medrassia, a Sombra do Olhar
+Tipo: Vácua (Mutante Psíquica e Alada)
+Classe: Predador de Caça e Ilusão
+
+Aparência:
+Metade mulher, metade criatura marinha, com asas negras e cabelos formados por tentáculos vivos. Sua pele é pálida e seus olhos emitem um brilho verde hipnótico. Qualquer um que a encare por muito tempo sente vertigem e paralisia.
+
+Comportamento:
+Age sozinha, caçando à noite ou em locais escuros. Prefere manipular e assustar as vítimas antes de atacar. Seus gritos podem causar desorientação e, em casos graves, desmaios. Usa suas asas para se mover rapidamente entre ruínas.
+
+Ponto Fraco:
+Evita luz forte — seus olhos são extremamente sensíveis. O som alto de frequência constante também interfere em suas ondas psíquicas, impedindo-a de usar o olhar paralisante.
+
+
+
+🧭 Guia de Sobrevivência
+
+Nunca olhe diretamente nos olhos: use espelhos ou viseiras escuras.
+
+Use luz forte: lanternas e sinalizadores a afastam.
+
+Mantenha ruído constante: rádios ou alarmes reduzem seu poder mental.
+
+Evite locais fechados e escuros: ela domina o ambiente nessas condições.
+
+Se ouvir um grito, cubra os ouvidos e fuja imediatamente.
+
+
+
+Criatura 5
+
+
+Card
+
+
+Medrassia
+
+Tipo: Vácua (Psíquica e Alada)
+
+Ameaça: Alta
+
+Comportamento: Caça sozinha, usa gritos e ilusões para paralisar vítimas
+
+
+Pagina principal
+
+
+Medrassia, a Sombra do Olhar
+Tipo: Vácua (Mutante Psíquica e Alada)
+Classe: Predador de Caça e Ilusão
+
+Aparência:
+Metade mulher, metade criatura marinha, com asas negras e cabelos formados por tentáculos vivos. Sua pele é pálida e seus olhos emitem um brilho verde hipnótico. Qualquer um que a encare por muito tempo sente vertigem e paralisia.
+
+Comportamento:
+Age sozinha, caçando à noite ou em locais escuros. Prefere manipular e assustar as vítimas antes de atacar. Seus gritos podem causar desorientação e, em casos graves, desmaios. Usa suas asas para se mover rapidamente entre ruínas.
+
+Ponto Fraco:
+Evita luz forte — seus olhos são extremamente sensíveis. O som alto de frequência constante também interfere em suas ondas psíquicas, impedindo-a de usar o olhar paralisante.
+
+🧭 Guia de Sobrevivência
+
+Nunca olhe diretamente nos olhos: use espelhos ou viseiras escuras.
+
+Use luz forte: lanternas e sinalizadores a afastam.
+
+Mantenha ruído constante: rádios ou alarmes reduzem seu poder mental.
+
+Evite locais fechados e escuros: ela domina o ambiente nessas condições.
+
+Se ouvir um grito, cubra os ouvidos e fuja imediatamente.
+
+
+Criatura 6
+
+Card
+
+Korran
+
+Tipo: Mutante (Bestial e Alado)
+Ameaça: Média
+Comportamento: Territorial; emite gritos para assustar e desorientar presas.
+
+
+
+Pagina principal
+
+
+Korran, o Grito de Areia
+
+Tipo: Mutante (Bestial e Alado)**
+Classe: Predador Territorial
+
+Aparência:
+Um híbrido grotesco entre ave e réptil, com pele avermelhada e penas negras. Possui uma crista rígida e garras longas adaptadas para correr e rasgar.
+
+Comportamento:
+Caça sozinho em regiões áridas, usando gritos estridentes para confundir inimigos antes de atacar com bicadas rápidas.
+
+Ponto Fraco:
+Sons agudos o desorientam; evita áreas frias.
+
+🧭 Guia de Sobrevivência
+
+Evite fazer barulho nas dunas.
+
+Use apitos ou metal para afastá-lo.
+
+Mantenha distância — ele persegue por som, não por cheiro.
+
+
+
+
+
+Criatura 7
+
+
+Card
+
+Varh’kar
+
+Tipo: Abissal (Corrompido e Equino)
+Ameaça: Alta
+Comportamento: Selvagem e violento; ataca qualquer forma de vida em frenesi.
+
+
+
+Pagina principal
+
+
+Varh’kar, o Corcel do Abismo
+
+Tipo: Abissal (Corrompido e Equino)**
+Classe: Montaria Demoníaca
+
+Aparência:
+Um cavalo distorcido, de pele acinzentada e olhos em chamas. Seus dentes são longos e irregulares, e a carne ao redor do rosto parece fundida com um elmo vivo. Correntes e adornos rituais presos ao corpo exalam energia sombria.
+
+Comportamento:
+Surge em meio a tempestades ou brumas densas. Persegue alvos em disparada, guiado por ódio puro. Seu relincho provoca medo intenso e alucinações breves.
+
+Ponto Fraco:
+Metais consagrados e fogo sagrado causam-lhe dor extrema; evita sons de sinos.
+
+Guia de Sobrevivência
+
+Evite áreas abertas durante tempestades — ele costuma surgir nelas.
+
+Use sinos ou fogo para confundi-lo e afastá-lo temporariamente.
+
+Não o encare diretamente: o olhar causa pânico e desorientação.
+
+Busque abrigo em solo consagrado — ele não consegue atravessá-lo.
+
+Se ouvir relinchos distantes, esconda-se e mantenha silêncio absoluto.
+
+
+
+Criatura 8
+
+
+Card
+
+Gorthan
+
+Tipo: Abissal (Bestial e Guerreiro)
+Ameaça: Muito Alta
+Comportamento: Implacável; persegue o alvo até destruí-lo completamente.
+
+
+Pagina principal
+
+
+Gorthan, o Senhor do Labirinto
+
+Tipo: Abissal (Bestial e Guerreiro)**
+Classe: Predador de Caça e Confronto
+
+Aparência:
+Um gigante musculoso com corpo de touro e postura humana. Possui chifres enormes e olhos que brilham em vermelho sob a penumbra. Usa pedaços de armadura enferrujada e carrega machados duplos cobertos de marcas rúnicas.
+
+Comportamento:
+Habita ruínas e corredores subterrâneos. Ataca qualquer invasor sem hesitar, guiado por instinto e fúria ancestral. Seu rugido ecoa pelos túneis, confundindo a direção do som para desorientar presas.
+
+Ponto Fraco:
+Luz intensa o enfraquece temporariamente; também é sensível a sons graves e prolongados que interferem em sua percepção.
+
+🧭 Guia de Sobrevivência
+
+Evite corredores estreitos: ele usa as paredes para prender e esmagar alvos.
+
+Leve fontes de luz forte: afasta e desorienta Gorthan.
+
+Sons graves e contínuos podem atrasar sua perseguição.
+
+Nunca corra em linha reta: use curvas e obstáculos para confundi-lo.
+
+Se ouvir o rugido três vezes, fuja imediatamente — significa que ele já sentiu seu cheiro.
+
+
+Criatura 8
+
+Card
+
