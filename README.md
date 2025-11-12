@@ -15,7 +15,7 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 
 - Informações dos pontos fracos e táticas.
 
-- Dicas e estratégias cajo seja necessário enfrentá-lo.
+- Dicas e estratégias caso seja necessário enfrentá-lo.
 
 - Ter um layout fácil e prático de acessar e navegar.
 
