@@ -39,7 +39,7 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 
 - Baixe ou clone o repositório:
 
-git clone 
+git clone https://github.com/flaviohfp/GuiaDeSobrevivencia
 
 - Abra o arquivo index.html no navegador.
 
