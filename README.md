@@ -31,7 +31,7 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 
 - Baixe ou clone o repositório:
 
-git clone https://github.com/flaviohfp/GuiaDeSobrevivencia/tree/main/Code
+ git clone https://github.com/flaviohfp/GuiaDeSobrevivencia/tree/main/Code
 
 - Abra o arquivo index.html no navegador.
 
