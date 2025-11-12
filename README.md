@@ -27,14 +27,6 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 
 - JavaScript — interatividade
 
-# 👥 Equipe
-| Função                  | Integrante | Responsabilidades                         |
-| ----------------------- | ---------- | ----------------------------------------- |
-| **PM / Documentação**   | Maria      | Criação do Kanban, README e merges finais |
-| **Front-End**           | Flavio     | Estrutura e design da página              |
-| **Lógica / JavaScript** | Yan        | Implementação das interações              |
-| **Design / Suporte**    | Davi       | Criação visual e apoio técnico            |
-
 # 🚀Como Executar o Projeto
 
 - Baixe ou clone o repositório:
