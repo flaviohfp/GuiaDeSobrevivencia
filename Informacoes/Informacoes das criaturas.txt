@@ -194,42 +194,41 @@ Criatura 5
 Card
 
 
-Medrassia
+Velgrath, o Devorador do Crepúsculo
 
-Tipo: Vácua (Psíquica e Alada)
+Tipo: Abissal (Vácuo Alado e Predador Sombrio)
+Classe: Caçador de Ecos e Decompositor de Luz
+Nível de Ameaça: Extremo
 
-Ameaça: Alta
+Aparência
 
-Comportamento: Caça sozinha, usa gritos e ilusões para paralisar vítimas
+Velgrath possui um corpo disforme, semelhante a um híbrido entre morcego e demônio marinho. Sua pele é negra e oleosa, refletindo apenas fragmentos de luz. As asas são longas e membranosas, sempre exalando uma névoa escura que se dispersa ao seu redor. Seus olhos, rubros e fundos, parecem enxergar além do físico — penetram no medo mais íntimo de quem o encara.
+Quando se move, o som do vento muda: as correntes de ar se distorcem, como se o espaço tremesse à sua volta.
 
+Comportamento
 
-Pagina principal
+Velgrath caça ao entardecer, quando a luz se torna incerta. Ele é atraído por sons repetitivos — passos, respiração acelerada, orações — e se aproxima silenciosamente, voando baixo.
+Sua presença antecede-se por uma sensação de frio súbito e um zunido abafado nos ouvidos.
+Quando ataca, não rasga nem devora fisicamente: ele consome a luz e a energia vital, deixando as vítimas pálidas, imóveis e cegas.
 
+Velgrath raramente ataca em locais completamente escuros; prefere o crepúsculo, onde pode se fundir às sombras e ainda enxergar o medo refletido em seus alvos.
 
-Medrassia, a Sombra do Olhar
-Tipo: Vácua (Mutante Psíquica e Alada)
-Classe: Predador de Caça e Ilusão
+Ponto Fraco
 
-Aparência:
-Metade mulher, metade criatura marinha, com asas negras e cabelos formados por tentáculos vivos. Sua pele é pálida e seus olhos emitem um brilho verde hipnótico. Qualquer um que a encare por muito tempo sente vertigem e paralisia.
-
-Comportamento:
-Age sozinha, caçando à noite ou em locais escuros. Prefere manipular e assustar as vítimas antes de atacar. Seus gritos podem causar desorientação e, em casos graves, desmaios. Usa suas asas para se mover rapidamente entre ruínas.
-
-Ponto Fraco:
-Evita luz forte — seus olhos são extremamente sensíveis. O som alto de frequência constante também interfere em suas ondas psíquicas, impedindo-a de usar o olhar paralisante.
+A criatura é vulnerável à luz pura e constante, especialmente chamas vivas e radiação solar direta.
+Também é sensível a sons rítmicos metálicos (sinos, correntes, batidas regulares), que interferem em sua percepção e o desorientam temporariamente.
 
 🧭 Guia de Sobrevivência
 
-Nunca olhe diretamente nos olhos: use espelhos ou viseiras escuras.
+Evite o entardecer em áreas abertas: Velgrath caça entre a última luz do sol e a primeira sombra da noite.
 
-Use luz forte: lanternas e sinalizadores a afastam.
+Carregue fontes de luz contínua: tochas, lanternas químicas ou fogo mantido — qualquer luz intermitente apenas o atrai.
 
-Mantenha ruído constante: rádios ou alarmes reduzem seu poder mental.
+Produza som metálico constante: o ruído de sinos pequenos pode mantê-lo afastado.
 
-Evite locais fechados e escuros: ela domina o ambiente nessas condições.
+Nunca permaneça imóvel: ele detecta a ausência de movimento como um sinal de presa fácil.
 
-Se ouvir um grito, cubra os ouvidos e fuja imediatamente.
+Se o ar ficar frio e o som desaparecer, fuja imediatamente.
 
 
 Criatura 6
@@ -359,7 +358,44 @@ Nunca corra em linha reta: use curvas e obstáculos para confundi-lo.
 Se ouvir o rugido três vezes, fuja imediatamente — significa que ele já sentiu seu cheiro.
 
 
-Criatura 8
+Criatura 9
 
 Card
 
+Nome: Zyrkhal
+Tipo: Abissal (Inseto e Predador)
+Ameaça: Extrema
+Comportamento: Caçador implacável; move-se em silêncio e ataca sem aviso, drenando a vitalidade da presa até restar apenas a carcaça.
+
+Página Principal
+Zyrkhal, o Devorador de Ecos
+
+Tipo: Abissal (Inseto e Predador)
+Classe: Caçador Alado e Parasitário
+
+Aparência:
+
+Uma criatura grotesca e híbrida, lembrando um inseto colossal fundido com predadores de eras esquecidas. Seu corpo é coberto por um exoesqueleto dourado e segmentado, pontilhado de espinhos e placas rígidas. As asas translúcidas vibram em alta frequência, emitindo um som hipnótico que entorpece suas presas.
+Seus olhos compostos brilham com um tom azulado e frio, e das mandíbulas serrilhadas escorrem secreções que dissolvem carne e metal. O abdômen curvado guarda um ferrão articulado, capaz de perfurar até rocha.
+
+Comportamento:
+
+Zyrkhal habita zonas escuras e silenciosas — ruínas antigas, fendas abissais ou florestas mortas. É atraído por vibrações sonoras e calor corporal, caçando à noite ou em ambientes sem eco.
+Ataca a partir do teto ou do nevoeiro, agarrando a vítima com suas patas dianteiras e injetando um fluido paralisante antes de iniciar a drenagem vital.
+Uma vez que escolhe um alvo, nada o faz desistir — ele persegue até que o silêncio retorne.
+
+Ponto Fraco:
+
+Zyrkhal é vulnerável a vibrações caóticas e sons irregulares. Ruídos agudos e intermitentes desorientam seu senso de direção. A luz ultravioleta também o força a recuar, revelando fissuras em seu exoesqueleto.
+
+🧭 Guia de Sobrevivência
+
+Evite fazer barulho: qualquer som ritmado atrai Zyrkhal.
+
+Use luzes pulsantes: a oscilação quebra sua concentração.
+
+Se ouvir um zumbido crescente, abaixe-se imediatamente. Ele ataca de cima.
+
+Nunca corra em linha reta: mude de direção para confundir o rastreamento sonoro.
+
+Se o ar ao redor começar a vibrar — fuja. Significa que Zyrkhal já está ajustando sua frequência de caça.
