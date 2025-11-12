@@ -34,3 +34,18 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 | **Front-End**           | Flavio     | Estrutura e design da página              |
 | **Lógica / JavaScript** | Yan        | Implementação das interações              |
 | **Design / Suporte**    | Davi       | Criação visual e apoio técnico            |
+
+# 🚀Como Executar o Projeto
+
+- Baixe ou clone o repositório:
+
+git clone https://github.com/usuario/GuiaDeSobrevivencia.git
+
+- Abra o arquivo index.html no navegador.
+
+- Explore os monstros e descubra como sobreviver a cada batalha!
+
+# 📜Licença
+
+- Projeto desenvolvido para fins educacionais — SENAI.
+- Uso livre para estudo e aprendizado.
