@@ -359,7 +359,44 @@ Nunca corra em linha reta: use curvas e obstáculos para confundi-lo.
 Se ouvir o rugido três vezes, fuja imediatamente — significa que ele já sentiu seu cheiro.
 
 
-Criatura 8
+Criatura 9
 
 Card
 
+Nome: Zyrkhal
+Tipo: Abissal (Inseto e Predador)
+Ameaça: Extrema
+Comportamento: Caçador implacável; move-se em silêncio e ataca sem aviso, drenando a vitalidade da presa até restar apenas a carcaça.
+
+Página Principal
+Zyrkhal, o Devorador de Ecos
+
+Tipo: Abissal (Inseto e Predador)
+Classe: Caçador Alado e Parasitário
+
+Aparência:
+
+Uma criatura grotesca e híbrida, lembrando um inseto colossal fundido com predadores de eras esquecidas. Seu corpo é coberto por um exoesqueleto dourado e segmentado, pontilhado de espinhos e placas rígidas. As asas translúcidas vibram em alta frequência, emitindo um som hipnótico que entorpece suas presas.
+Seus olhos compostos brilham com um tom azulado e frio, e das mandíbulas serrilhadas escorrem secreções que dissolvem carne e metal. O abdômen curvado guarda um ferrão articulado, capaz de perfurar até rocha.
+
+Comportamento:
+
+Zyrkhal habita zonas escuras e silenciosas — ruínas antigas, fendas abissais ou florestas mortas. É atraído por vibrações sonoras e calor corporal, caçando à noite ou em ambientes sem eco.
+Ataca a partir do teto ou do nevoeiro, agarrando a vítima com suas patas dianteiras e injetando um fluido paralisante antes de iniciar a drenagem vital.
+Uma vez que escolhe um alvo, nada o faz desistir — ele persegue até que o silêncio retorne.
+
+Ponto Fraco:
+
+Zyrkhal é vulnerável a vibrações caóticas e sons irregulares. Ruídos agudos e intermitentes desorientam seu senso de direção. A luz ultravioleta também o força a recuar, revelando fissuras em seu exoesqueleto.
+
+🧭 Guia de Sobrevivência
+
+Evite fazer barulho: qualquer som ritmado atrai Zyrkhal.
+
+Use luzes pulsantes: a oscilação quebra sua concentração.
+
+Se ouvir um zumbido crescente, abaixe-se imediatamente. Ele ataca de cima.
+
+Nunca corra em linha reta: mude de direção para confundir o rastreamento sonoro.
+
+Se o ar ao redor começar a vibrar — fuja. Significa que Zyrkhal já está ajustando sua frequência de caça.
