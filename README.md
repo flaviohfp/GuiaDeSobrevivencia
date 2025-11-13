@@ -40,4 +40,8 @@ Caso o jogador precise enfrentar algum desses mostros, á página estrá dispon�
 # 📜Licença
 
 - Projeto desenvolvido para fins educacionais — SENAI.
+<<<<<<< HEAD
 - Uso livre para estudo e aprendizado.
+=======
+- Uso livre para estudo e aprendizado.
+>>>>>>> 8fdd097818531ae2e30c8682df868c06dacea648
