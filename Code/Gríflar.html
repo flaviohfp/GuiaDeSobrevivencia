@@ -1,40 +1,171 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
-    <title>Document</title>
-</head>
-<body>
-    
-    <div class="Griflar">
-        <p>
-            <h1>Gríflar, o Vigilante do Vácuo</h1>
-            <br>
-            <strong class="str">Tipo:</strong> Vácua (Criatura Mutante)
-            <br>
-            <strong class="str">Classe:</strong> Predador Aéreo
-            <br>
-            <strong class="str">Aparência:</strong> Uma mistura de leão e águia, com corpo musculoso, asas douradas e olhos vermelhos que brilham à noite. Suas garras são afiadas e seu bico, capaz de partir metal, faz dele um dos Vácuas mais perigosos dos céus.
-            <br>
-            <strong class="str">Comportamento:</strong> Caçador solitário e extremamente territorial. Ataca de cima com precisão, geralmente após emitir um grito agudo que ecoa por quilômetros. Costuma guardar suas presas em locais altos, como torres e ruínas.
-            <br>
-            <strong class="str">Ponto Fraco:</strong> Seu peito é pouco protegido — as penas são finas nessa região. As asas também são sensíveis a impactos diretos, podendo forçá-lo a cair.
-            <br>
-            <h2>🧭 Guia de Sobrevivência</h2>
-            
-            <strong class="str">Evite áreas abertas:</strong> ele domina os céus.
-            <br>
-            <strong class="str">Procure refúgio fechado:</strong> túneis e prédios reduzem sua vantagem.
-            <br>
-            <strong class="str">Use distrações:</strong> luzes fortes e sons altos o desorientam.
-            <br>
-            <strong class="str">Mire no peito:</strong> ataques precisos podem derrubá-lo.
-            <br>
-            <strong class="str">Viaje em grupo:</strong> raramente enfrenta mais de dois alvos ao mesmo tempo.
-        </p>
-    </div>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Glifar – o Vigilante do Vácuo</title>
 
-</body>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #0e0e0e;
+        color: #e4e4e4;
+        padding: 20px;
+      }
+
+      h1 {
+        text-align: center;
+        color: #ff2c2c;
+        text-shadow: 0 0 10px #ff2c2c;
+        margin-bottom: 25px;
+        font-size: 28px;
+        letter-spacing: 1px;
+      }
+
+      .card {
+        background: #1a1a1a;
+        padding: 15px 20px;
+        margin-bottom: 12px;
+        border-radius: 12px;
+        cursor: pointer;
+        border: 2px solid #333;
+        transition: 0.25s;
+        display: block;
+      }
+
+      .card:hover {
+        transform: scale(1.02);
+        border-color: #ff2c2c;
+        box-shadow: 0 0 10px #ff2c2c;
+      }
+
+      strong {
+        font-size: 18px;
+        letter-spacing: 1px;
+      }
+
+      .conteudo {
+        display: none;
+        padding: 15px;
+        margin-top: 10px;
+        background: #111;
+        border-left: 3px solid #ff2c2c;
+        border-radius: 0 0 12px 12px;
+        animation: abrir 0.3s ease;
+        line-height: 1.5;
+      }
+
+      @keyframes abrir {
+        from {
+          opacity: 0;
+          transform: translateY(-6px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      input[type="checkbox"] {
+        display: none;
+      }
+
+      input[type="checkbox"]:checked ~ .conteudo {
+        display: block;
+      }
+
+      .glifar-img {
+        margin-top: 40px;
+        text-align: center;
+      }
+
+      .glifar-img img {
+        width: 240px;
+        opacity: 0.92;
+        filter: drop-shadow(0 0 10px #ff2c2c);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Glifar – o Vigilante do Vácuo</h1>
+
+    <label class="card">
+      <input type="checkbox" />
+      <strong>Origem da Glifar</strong>
+      <div class="conteudo">
+        <p>
+          A Glifar surgiu após o evento conhecido como <strong>A Falha</strong>,
+          quando as comunicações colapsaram e os Vácua começaram a dominar as
+          zonas urbanas. Inicialmente formada por pequenos grupos de
+          sobreviventes, ela cresceu até se tornar uma rede organizada de apoio,
+          inteligência e comunicação entre comunidades isoladas.
+        </p>
+      </div>
+    </label>
+
+    <label class="card">
+      <input type="checkbox" />
+      <strong>Informações</strong>
+      <div class="conteudo">
+        <p>
+          <strong>Tipo:</strong> Vácua (Criatura Mutante) <br />
+          <strong>Classe:</strong> Predador Aéreo <br><hr>
+
+
+            <strong>Comportamento</strong><br>
+            <p>
+                Caçador solitário e extremamente territorial. Ataca de cima com precisão, geralmente após emitir um grito agudo
+                que ecoa por quilômetros.
+                Costuma guardar suas presas em locais altos, como torres e ruínas. <br><br>
+                <strong>Ponto Fraco:</strong>
+                Seu peito é pouco protegido — as penas são finas nessa região. As asas também são sensíveis a impactos diretos, podendo forçá-lo a cair.
+            </p>
+
+
+        </p>
+      </div>
+    </label>
+
+    <label class="card">
+      <input type="checkbox" />
+      <strong>Guia de Sobrevivencia</strong>
+      <div class="conteudo">
+        <p>
+          Guia basico de Sobrevivencia para um possivel encontro com a
+          Criatura:<br /><br />
+          🔹 <strong>Evite áreas abertas:</strong> – ele domina os céus.<br />
+          <hr />
+          🔹 <strong>Procure refúgio fechado:</strong> – túneis e prédios
+          reduzem sua vantagem.<br />
+          <hr />
+          🔹 <strong>Use distrações:</strong> – luzes fortes e sons altos o
+          desorientam.<br />
+          <hr />
+          🔹 <strong>Mire no peito:</strong> – ataques precisos podem
+          derrubá-lo.<br />
+          <hr />
+          🔹 <strong>Viaje em grupo:</strong> – raramente enfrenta mais de dois
+          alvos ao mesmo tempo.<br /><br />
+        </p>
+      </div>
+    </label>
+
+    <label class="card">
+      <input type="checkbox" />
+      <strong>Aparência</strong>
+      <div class="conteudo">
+        <p>
+          Uma mistura de leão e águia, com corpo musculoso, asas douradas e
+          olhos vermelhos que brilham à noite. Suas garras são afiadas e seu
+          bico, capaz de partir metal, faz dele um dos Vácuas mais perigosos dos
+          céus.
+        </p>
+      </div>
+    </label>
+
+    <!-- IMAGEM DA GLIFAR -->
+    <div class="glifar-img">
+      <img src="./assets/img/Grifo.jpg" alt="Símbolo da Glifar" />
+    </div>
+  </body>
 </html>
